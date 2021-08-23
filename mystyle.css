@@ -1,0 +1,19 @@
+html,body{
+    box-sizing: content-box; 
+    height: 100%;
+}
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+img{
+    height: auto;
+    width: 150px;
+}
+#firstrow{
+    height: 100vh;
+}
+
+
+
+
+ 
